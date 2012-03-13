@@ -1,0 +1,86 @@
+/* 
+    Document   : style
+    Created on : Mar 10, 2012, 2:20:06 PM
+    Author     : thomas
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body
+{
+  background: url("../images/purty_wood.png") repeat;
+}
+
+.question
+{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.question-number
+{
+    font-size: 2.1em;
+    font-weight: bolder;
+    float:left;
+    padding:5px 20px 10px 0px;
+    color:#003b9e;
+    
+}
+
+#quizzform p
+{
+    margin-left: 75px;
+}
+
+#quizzform .question
+{
+    margin-left:0;
+}
+
+#quizzform .radio
+{
+    margin:10px 0px;
+}
+
+
+#quizzform .submit
+{
+    padding: 10px 20px;
+    font-size: 1.3em;
+}
+
+.zombiefont {font-size: 3.2em;font-family: 'Creepster','Piedra', cursive;}
+.funfont {font-family: 'Luckiest Guy','Bangers','Cherry Cream Soda','Sonsie One', cursive;}
+.normalfont { font-family: 'Droid Sans'; }
+
+.title { font-size: 5em; margin:30px 0px; text-shadow: 2px 2px #fff;}
+
+.simplecontent
+{
+    border-radius: 25px;
+    background: #fff;
+    padding:30px;
+    border: 1px solid #666; 
+    width: 700px;
+    margin:auto;
+}
+
+.quizzmenu img
+{
+    border:2px solid #666;
+}
+
+.copyright
+{
+    font-size: 1.3em;
+    font-weight: bold;
+    text-shadow: 1px 1px #fff;
+}
+/* Generic classes */
+.text-center { text-align: center}
+.text-right { text-align: right}
+.block-center { margin: auto; }
