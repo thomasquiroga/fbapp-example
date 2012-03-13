@@ -8,8 +8,8 @@
  */
 
 $config = array(
-   'title' => "Nom du Zombie",
-    'description' => "plop desc",
+   'title' => "Combien de temps survivrez-vous aux zombies ?",
+    'description' => "Suite à des expérimentations douteuses sur des cobayes humains, menées par des laboratoires clandestins, un mysterieux virus se répand a travers le monde. Il réveille les morts et transforme tout humain mordu en créatures sans cervelles et assoiffées de sang.",
     'fontstyle' => 'zombiefont' //(zombiefont, normalfont, funfont)
 );
 
