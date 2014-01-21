@@ -7,7 +7,7 @@ require_once("../class/facebook.php");
 
 $config = array();
 $config['appId'] = '171554456297299';
-$config['secret'] = 'eb95e8709883b28402916c646bb506aa';
+$config['secret'] = 'exD90plop28hello96c746bFakeSecreta';
 $config['fileUpload'] = false; // optional
 
 $facebook = new Facebook($config);
